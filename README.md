@@ -15,4 +15,5 @@ Análisis exploratorio
 # Instrucciones de ejecución
 Tener configurado Hadoop y Spark
 Subir el dataset al HDFS
+python3 tarea4.py
 
